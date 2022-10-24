@@ -1,0 +1,59 @@
+a{
+    text-decoration: none;
+    color: goldenrod;
+    letter-spacing:3;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left:25% ;margin-right: 25%;
+}
+a:hover{
+    color: rgb(105, 80, 18);
+}
+.paint{
+    background-image: url("https://img.freepik.com/free-vector/modern-3d-black-silver-abstract-metallic-background-with-shiny-light-texture-pattern-decoration_181182-14176.jpg");
+    border: 5px solid rgb(133, 97, 6);
+}
+.title{
+    letter-spacing: 5;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(29, 27, 27);
+}
+.introduction .sentc{
+    letter-spacing: 0.8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(29, 27, 27);
+    margin-left:50px ;margin-right: 50px;
+}
+.introduction .click{
+    letter-spacing: 0.6;
+    border-radius: 7px;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.mid_fir{
+    margin-left:80px ;
+    margin-right: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(226, 182, 72);
+}
+.mid_sec{
+    margin-left:80px ;
+    margin-right: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(29, 27, 27);
+    
+}
+.footer{
+    text-decoration: dotted;
+    text-align: center;
+    
+    color: white;
+}
+.button{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+.image:hover{
+    opacity:.5;
+}
